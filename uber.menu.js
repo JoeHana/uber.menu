@@ -1,11 +1,11 @@
 
 /*
- * Project:		infuse : Menu
+ * Project:		uber.menu
  *
  * Version: 	0.1.0
  *
- * Autor:		infuse
- * Autor URL:	http://infuse.at/scripts/infuse-menu
+ * Autor:		UberPress
+ * Autor URL:	http://uberpress.io/scripts/uber.menu
  *
  * Date:		2012-09-16
  *
